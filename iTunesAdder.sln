@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iTunesAdderCLI", "iTunesAdder\iTunesAdderCLI.csproj", "{2C36FAB7-FD80-4910-992D-6A4703A659DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Mixed Platforms = CD_ROM|Mixed Platforms
+		CD_ROM|x64 = CD_ROM|x64
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|Mixed Platforms = DVD-5|Mixed Platforms
+		DVD-5|x64 = DVD-5|x64
+		DVD-5|x86 = DVD-5|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|Mixed Platforms = SingleImage|Mixed Platforms
+		SingleImage|x64 = SingleImage|x64
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.CD_ROM|Any CPU.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.CD_ROM|Mixed Platforms.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.CD_ROM|Mixed Platforms.Build.0 = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.CD_ROM|x64.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.CD_ROM|x86.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.CD_ROM|x86.Build.0 = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Debug|x64.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Debug|x86.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Debug|x86.Build.0 = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.DVD-5|Any CPU.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.DVD-5|Mixed Platforms.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.DVD-5|Mixed Platforms.Build.0 = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.DVD-5|x64.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.DVD-5|x86.ActiveCfg = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.DVD-5|x86.Build.0 = Debug|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Release|Any CPU.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Release|x64.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Release|x86.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.Release|x86.Build.0 = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.SingleImage|Any CPU.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.SingleImage|Mixed Platforms.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.SingleImage|Mixed Platforms.Build.0 = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.SingleImage|x64.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.SingleImage|x86.ActiveCfg = Release|x86
+		{2C36FAB7-FD80-4910-992D-6A4703A659DC}.SingleImage|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

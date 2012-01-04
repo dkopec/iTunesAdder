@@ -1,0 +1,41 @@
+﻿Syntax: iTunesAdderCLI [options] -i <source>
+
+### General iTunesAdder Options----------------------------------------------
+	-h, --help					Print help
+
+### Source Options-----------------------------------------------------------
+
+	-a, --alternative <string>	Alternative string to get name information from,
+								will be use only if the program can't get proper
+								information from file name.
+	-b, --batch					Used with --directory to indicate a batch job, 
+								the program will select all files in the 
+								indicated directory and que them.
+	-d, --directory	<string>	Indicates input directory, first file found will
+								be used.
+	-i, --input <string>		Indicates the full path to the file to process.
+	-r, --remove				Will remove the source file when all processes 
+								are completed
+
+### Destination Options------------------------------------------------------
+
+	-m, --move <string>			Sets an alternative directory for the processed
+								file to be saved in.
+	-n, --nomove				Prevents the file from being added to iTunes
+								directory, will keep it in the same directory
+								as the source.
+
+### Encoding Options---------------------------------------------------------
+
+	-e, --encode <string>		Used for custom encoding, any parameters can
+								be used that apply to HandbrakeCLI.exe	
+	-p, --preset <string>		Sets the Handbrake preset to be used on the 
+								file, if left blank will list all avialable
+								presets.
+
+### Metadata Options---------------------------------------------------------
+
+	-c, --custom <string>		Used for custom metadata options.
+	-re,--regex <string>		Sets the regular expression that identifies
+								season and episode string in the filename.
+								Example: 
